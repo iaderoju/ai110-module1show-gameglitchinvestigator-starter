@@ -26,8 +26,11 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+- [ ] Guess the secret number, earn points.
 - [ ] Detail which bugs you found.
+- [ ] Wrong hints, ranges, and broken new game button. 
 - [ ] Explain what fixes you applied.
+- [ ] Fixed new game option. Flipped the hints around("Go Higher to Go Lower! Vice Versa). As well as fixing the ranges. 
 
 ## 📸 Demo
 
